@@ -1,4 +1,4 @@
 - Daniel Petti
-- ![selfie]("/images/selfie.jpg")
+- ![selfie](/images/selfie.jpg)
 - Graduating 2019 (Hopefully)
 - Robotics
